@@ -11,6 +11,8 @@ Documentation on installing and configuring the Azure FXT Edge Filer is under de
 * [FXT 5000 Series Installation Guide](https://azure.github.io/Avere/legacy/pdf/FXT_5000_Installation_Guide-2018-05.pdf)
 * [FXT 5000 Series Cluster Creation Guide](https://azure.github.io/Avere/legacy/pdf/fxt_cluster_creation_guide-2018-05.pdf)
 
+<img src="docs/images/fxt_6000.png">
+
 ### Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
