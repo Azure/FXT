@@ -1,5 +1,17 @@
+# Azure FXT Edge Filer (private preview)
 
-# Contributing
+The Azure FXT Edge Filer is a hardware storage cache that integrates with existing storage and cloud resources to provide fast access to active data for high-performance computing workflows. The Azure FXT Edge Filer is in private preview.  
+
+Read the [Azure FXT Edge Filer Data sheet](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-fxt-edge-filer-hybrid-storage-cache-software-defined-networking-fast-file-access-and-active-archive-for-hpc/FXT%20Edge%20Filer%20datasheet-032219.pdf) for more information. 
+
+<!-- product page link not yet active https://azure.microsoft.com/en-us/services/storage/fxt-edge-filer/ -->
+
+Documentation on installing and configuring the Azure FXT Edge Filer is under development. For immediate assistance, contact your Microsoft representative or refer to these documents, which are for a previous similar product: 
+
+* [FXT 5000 Series Installation Guide](https://azure.github.io/Avere/legacy/pdf/FXT_5000_Installation_Guide-2018-05.pdf)
+* [FXT 5000 Series Cluster Creation Guide](https://azure.github.io/Avere/legacy/pdf/fxt_cluster_creation_guide-2018-05.pdf)
+
+### Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -13,7 +25,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Legal Notices
+### Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
