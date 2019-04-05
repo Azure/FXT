@@ -2,9 +2,11 @@
 
 The Azure FXT Edge Filer is a hardware storage cache that integrates with existing storage and cloud resources to provide fast access to active data for high-performance computing workflows. The Azure FXT Edge Filer is in private preview.  
 
-Read the [Azure FXT Edge Filer Data sheet](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-fxt-edge-filer-hybrid-storage-cache-software-defined-networking-fast-file-access-and-active-archive-for-hpc/FXT%20Edge%20Filer%20datasheet-032219.pdf) for more information. 
+More about the Azure FXT Edge Filer: 
 
-<!-- product page link not yet active https://azure.microsoft.com/en-us/services/storage/fxt-edge-filer/ -->
+* [Azure FXT Edge Filer data sheet](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-fxt-edge-filer-hybrid-storage-cache-software-defined-networking-fast-file-access-and-active-archive-for-hpc/FXT%20Edge%20Filer%20datasheet-032219.pdf)
+
+* [Azure FXT Edge Filer product page](https://azure.microsoft.com/services/fxt-edge-filer/)
 
 Documentation on installing and configuring the Azure FXT Edge Filer is under development. For immediate assistance, contact your Microsoft representative or refer to these documents, which are for a previous similar product: 
 
