@@ -8,10 +8,9 @@ More about the Azure FXT Edge Filer:
 
 * [Azure FXT Edge Filer product page](https://azure.microsoft.com/services/fxt-edge-filer/)
 
-Documentation on installing and configuring the Azure FXT Edge Filer is under development. For immediate assistance, contact your Microsoft representative or refer to these documents, which are for a previous similar product: 
+## Product documentation
 
-* [FXT 5000 Series Installation Guide](https://azure.github.io/Avere/legacy/pdf/FXT_5000_Installation_Guide-2018-05.pdf)
-* [FXT 5000 Series Cluster Creation Guide](https://azure.github.io/Avere/legacy/pdf/fxt_cluster_creation_guide-2018-05.pdf)
+Detailed specifications and installation instructions are provided on the [Azure FXT Edge Filer documentation](https://docs.microsoft.com/azure/fxt-edge-filer/) site (https://docs.microsoft.com/azure/fxt-edge-filer/).
 
 <img src="docs/images/fxt_6000.png">
 
